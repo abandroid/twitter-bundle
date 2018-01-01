@@ -7,7 +7,7 @@
  * with this source code in the file LICENSE.
  */
 
-namespace Endroid\Twitter\Bundle;
+namespace Endroid\TwitterBundle;
 
 use Symfony\Component\HttpKernel\Bundle\Bundle;
 
